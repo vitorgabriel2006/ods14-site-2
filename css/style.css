@@ -67,7 +67,13 @@ body {
 footer {
     position: absolute;
     width: 100%;
-    top: 133%;
+    margin-top: 60%;
+    display: block;
+    
+    
+    
+
+    
 }
 
 .i{
@@ -79,3 +85,5 @@ footer {
 #img-github{
     max-width: 30px;
 }
+
+
